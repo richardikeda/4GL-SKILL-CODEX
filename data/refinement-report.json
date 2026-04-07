@@ -1,0 +1,207 @@
+{
+  "generatedAt": "2026-04-07T22:57:51.983Z",
+  "unresolvedObservedCommands": [
+    {
+      "name": "Field",
+      "count": 181,
+      "example": "Field [FML] 1, \"\", \"TABLES\", func AFNC.TEXTE(49), \"\", \"\""
+    },
+    {
+      "name": "Inftxt",
+      "count": 138,
+      "example": "Inftxt mess(270,126,1) At 105 : # Fiche cr��e"
+    },
+    {
+      "name": "Pick",
+      "count": 129,
+      "example": "Pick [SDH1] GAU_CHE1"
+    },
+    {
+      "name": "adxrob",
+      "count": 128,
+      "example": "adxrob(0)   = \"E\"+GLANGUE"
+    },
+    {
+      "name": "Opadxd",
+      "count": 98,
+      "example": "Opadxd WTARGET With nomap ,GLANGUE , adxusr, password  Using [JSRV]"
+    },
+    {
+      "name": "Boxclr",
+      "count": 73,
+      "example": "Boxclr [SCA1]"
+    },
+    {
+      "name": "messname",
+      "count": 69,
+      "example": "messname(0) = GLANGUE"
+    },
+    {
+      "name": "Selimp",
+      "count": 58,
+      "example": "Selimp PARAMETRE = [M]SERVEUR+\"@\" With PARAMETRE"
+    },
+    {
+      "name": "actihgup",
+      "count": 49,
+      "example": "actihgup(1) = \"AXDTEND\""
+    },
+    {
+      "name": "Getui",
+      "count": 46,
+      "example": "Getui VERSION=[L]SRV With \"SafeX3SrvImpFileVersion\""
+    },
+    {
+      "name": "Askui",
+      "count": 40,
+      "example": "Askui RETORNO=\"\" With \"UIAsk=\"+chr$(1) + \"AskGetFile\","
+    },
+    {
+      "name": "Opsock",
+      "count": 28,
+      "example": "Opsock [LDB]DBG_HOST, val([LDB]DBG_PORT) Using [OPS]"
+    },
+    {
+      "name": "Listimp",
+      "count": 20,
+      "example": "Listimp PARAMETRE = [M]SERVEUR+\"@\""
+    },
+    {
+      "name": "dbgstr",
+      "count": 17,
+      "example": "dbgstr(131) = GTRTIME"
+    },
+    {
+      "name": "dbglong",
+      "count": 16,
+      "example": "dbglong(33) = -12000"
+    },
+    {
+      "name": "Callocx",
+      "count": 16,
+      "example": "Callocx WRET=\"\""
+    },
+    {
+      "name": "Calliu",
+      "count": 15,
+      "example": "Calliu \"setDataTableExtractToExcel\" From [M:AEX8]EXPEXC With [M:AEY3]RESULT, \"\""
+    },
+    {
+      "name": "Seldest",
+      "count": 13,
+      "example": "Seldest PARAMETRE = SERVEUR With PARAMETRE"
+    },
+    {
+      "name": "Supli",
+      "count": 13,
+      "example": "Supli [M:BUR1]NBLIG(WI+1)"
+    },
+    {
+      "name": "Callilog",
+      "count": 12,
+      "example": "Callilog RETOUR=\"\" With     \"IAction=\" + chr$(1) + \"1\","
+    }
+  ],
+  "unresolvedObservedAssignments": [
+    {
+      "name": "GACTION",
+      "count": 38564,
+      "example": "GACTION = SAVACT"
+    },
+    {
+      "name": "SAVACT",
+      "count": 35234,
+      "example": "SAVACT = GACTION : GACTION = \"CTLUOM\""
+    },
+    {
+      "name": "VALEUR",
+      "count": 33459,
+      "example": "VALEUR=1"
+    },
+    {
+      "name": "IMPMOD",
+      "count": 16674,
+      "example": "IMPMOD = 1"
+    },
+    {
+      "name": "indice",
+      "count": 15725,
+      "example": "indice=SAVINDICE"
+    },
+    {
+      "name": "IMPENT",
+      "count": 15419,
+      "example": "IMPENT=[L]WTYPORI : # En attendant la correction définitive de Marc Beinat !!"
+    },
+    {
+      "name": "CRITERE",
+      "count": 9151,
+      "example": "CRITERE=\"1=2\""
+    },
+    {
+      "name": "ASTATUS",
+      "count": 7772,
+      "example": "ASTATUS = fmet this.ASETERROR('', func XQNFEGWUTIL.ERRORMSG , [V]CST_AERROR)"
+    },
+    {
+      "name": "NOL",
+      "count": 6001,
+      "example": "NOL = nolign-1"
+    },
+    {
+      "name": "FIN",
+      "count": 5901,
+      "example": "FIN = 0"
+    },
+    {
+      "name": "WOK",
+      "count": 5893,
+      "example": "WOK = 2"
+    },
+    {
+      "name": "IRET",
+      "count": 5633,
+      "example": "IRET = func PIMPL_CSTD_PROGS.PJM_KEY_SPLIT(GACTX, [M:SDH1]DPJT(NOL), SPROJECT, SBUDGET, STASK)"
+    },
+    {
+      "name": "IMPTBL",
+      "count": 5588,
+      "example": "IMPTBL = 1"
+    },
+    {
+      "name": "LIGNE",
+      "count": 5160,
+      "example": "LIGNE   =[F:ARM]NUMLIG"
+    },
+    {
+      "name": "AXE",
+      "count": 5130,
+      "example": "AXE = find(evalue(\"[F:DAA]DIE\"+\"(\"+num$(AX-1)+\")\"),[M:HAEF]DIE(0..[M:HAEF]NBRAXI-1))"
+    },
+    {
+      "name": "CHAINE",
+      "count": 4507,
+      "example": "CHAINE = format$(\"N0:5#\",mod(uniqid([AES]),99999))"
+    },
+    {
+      "name": "OBJET",
+      "count": 4060,
+      "example": "OBJET   = \"ADI\""
+    },
+    {
+      "name": "PAROBJ",
+      "count": 3816,
+      "example": "PAROBJ = \"\""
+    },
+    {
+      "name": "TIT",
+      "count": 3710,
+      "example": "TIT = \"Selecione o registro\""
+    },
+    {
+      "name": "A_DATE",
+      "count": 3688,
+      "example": "A_DATE  = [20/01/2021]"
+    }
+  ]
+}

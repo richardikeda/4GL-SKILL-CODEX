@@ -1,0 +1,7 @@
+interface:
+  display_name: "Sage X3 4GL Copilot"
+  short_description: "Self-contained Sage X3 4GL skill"
+  default_prompt: "Use $sage-x3-4gl-copilot to explain, generate, review, or troubleshoot Sage X3 4GL code with its built-in dictionary."
+
+policy:
+  allow_implicit_invocation: true
