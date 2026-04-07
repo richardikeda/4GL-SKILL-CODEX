@@ -56,6 +56,9 @@ function main() {
   if (!sourceIndex.helperTopics || !sourceIndex.corpusFiles) {
     fail("Source index must record helper and corpus coverage.");
   }
+  if (!sourceIndex.sourceConfiguration || !sourceIndex.sourceConfiguration.pluginRoot) {
+    fail("Source index must describe sanitized source configuration.");
+  }
   if (!Array.isArray(refinementReport.unresolvedObservedCommands) || !Array.isArray(refinementReport.unresolvedObservedAssignments)) {
     fail("Refinement report must expose unresolved command and assignment arrays.");
   }

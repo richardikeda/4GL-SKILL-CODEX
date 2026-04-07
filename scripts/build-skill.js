@@ -6,10 +6,29 @@ const DATA_DIR = path.join(ROOT, "data");
 const REFS_DIR = path.join(ROOT, "references");
 
 const SOURCES = {
-  pluginRoot: "D:\\WorkSpace\\4GL Studio Plugin",
-  helperRoot: "D:\\WorkSpace\\WorkSpace\\Projetos\\Enter Script\\X3-Helper\\X3",
-  corpusRoot: "D:\\NUVEM\\OneDrive\\SAGE\\@ORGANIZADO\\SOURCES\\V12",
+  pluginRoot: process.env.SAGE_X3_PLUGIN_ROOT || "",
+  helperRoot: process.env.SAGE_X3_HELPER_ROOT || "",
+  corpusRoot: process.env.SAGE_X3_CORPUS_ROOT || "",
 };
+
+function requireSourcePath(key, relativeHint) {
+  const sourcePath = SOURCES[key];
+  if (!sourcePath) {
+    throw new Error(
+      `Missing required environment variable for ${key}. Set ${envVarNameForKey(key)} to a local path that contains ${relativeHint}.`
+    );
+  }
+  return sourcePath;
+}
+
+function envVarNameForKey(key) {
+  const names = {
+    pluginRoot: "SAGE_X3_PLUGIN_ROOT",
+    helperRoot: "SAGE_X3_HELPER_ROOT",
+    corpusRoot: "SAGE_X3_CORPUS_ROOT",
+  };
+  return names[key] || key;
+}
 
 const CATEGORY_PRIORITY = {
   "help-topic": 1,
@@ -281,10 +300,11 @@ function shouldKeepObservedCommand(value) {
 }
 
 function buildPluginModel() {
-  const packageJson = readJson(path.join(SOURCES.pluginRoot, "package.json"));
-  const grammar = readJson(path.join(SOURCES.pluginRoot, "syntaxes", "4gl.tmLanguage.json"));
-  const snippets4gl = readJson(path.join(SOURCES.pluginRoot, "snippets", "4gl.json"));
-  const snippetsEvents = readJson(path.join(SOURCES.pluginRoot, "snippets", "events.json"));
+  const pluginRoot = requireSourcePath("pluginRoot", "package.json and syntax/snippet files");
+  const packageJson = readJson(path.join(pluginRoot, "package.json"));
+  const grammar = readJson(path.join(pluginRoot, "syntaxes", "4gl.tmLanguage.json"));
+  const snippets4gl = readJson(path.join(pluginRoot, "snippets", "4gl.json"));
+  const snippetsEvents = readJson(path.join(pluginRoot, "snippets", "events.json"));
 
   const keywordTerms = grammar.repository.keywords.patterns.flatMap((item) => {
     return item.match ? parseAlternationTerms(item.match) : [];
@@ -305,7 +325,7 @@ function buildPluginModel() {
 }
 
 function buildHelperModel() {
-  const helpDir = path.join(SOURCES.helperRoot, "4gl");
+  const helpDir = path.join(requireSourcePath("helperRoot", "the 4gl help directory"), "4gl");
   const files = walkFiles(helpDir, (fullPath) => fullPath.endsWith(".md"));
 
   return files.map((filePath) => {
@@ -321,7 +341,10 @@ function buildHelperModel() {
 }
 
 function buildCorpusModel() {
-  const sourceFiles = walkFiles(SOURCES.corpusRoot, (fullPath) => /\.(src|tra|stc)$/i.test(fullPath));
+  const sourceFiles = walkFiles(
+    requireSourcePath("corpusRoot", ".src, .tra, or .stc source files"),
+    (fullPath) => /\.(src|tra|stc)$/i.test(fullPath)
+  );
   const stats = {
     totalFiles: sourceFiles.length,
     fileExtensions: {},
@@ -1024,7 +1047,12 @@ function writeOutputs(dictionary, pluginModel, corpusModel, helperModel) {
     JSON.stringify(
       {
         generatedAt: new Date().toISOString(),
-        sources: SOURCES,
+        sourceKinds: ["plugin", "helper", "corpus"],
+        sourceConfiguration: {
+          pluginRoot: "env:SAGE_X3_PLUGIN_ROOT",
+          helperRoot: "env:SAGE_X3_HELPER_ROOT",
+          corpusRoot: "env:SAGE_X3_CORPUS_ROOT",
+        },
         helperTopics: helperModel.length,
         pluginCommands: pluginModel.packageJson.contributes.commands.length,
         corpusFiles: corpusModel.stats.totalFiles,
