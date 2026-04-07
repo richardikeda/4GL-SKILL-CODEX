@@ -1,9 +1,9 @@
 ---
-name: sage-x3-4gl-copilot
-description: Comprehensive Sage X3 4GL skill with a self-contained dictionary, syntax guide, project idioms, UI-framework observations, and troubleshooting workflow. Use when Codex needs to explain 4GL constructs, generate or refactor Sage X3 routines, review .src/.tra/.stc files, map plugin/help semantics into code, or troubleshoot runtime and authoring issues in Sage X3 4GL projects.
+name: x3-4gl-copilot
+description: Comprehensive X3 4GL skill with a self-contained dictionary, syntax guide, project idioms, UI-framework observations, and troubleshooting workflow. Use when Codex needs to explain 4GL constructs, generate or refactor X3 routines, review .src/.tra/.stc files, map help semantics into code, or troubleshoot runtime and authoring issues in X3 4GL projects.
 ---
 
-# Sage X3 4GL Copilot
+# X3 4GL Copilot
 
 Use the skill's own dictionary first. Treat the mined sources as build-time inputs, not as the primary runtime dependency.
 
@@ -15,6 +15,12 @@ Use the skill's own dictionary first. Treat the mined sources as build-time inpu
 - Read [references/4gl-troubleshooting.md](references/4gl-troubleshooting.md) when debugging, linting, or reviewing suspicious runtime behavior.
 - Read [references/4gl-precedence-and-validation.md](references/4gl-precedence-and-validation.md) if you need provenance rules or must judge conflicts between normative semantics and corpus habits.
 - Read [references/4gl-refinement-report.md](references/4gl-refinement-report.md) before promoting observed-only constructs into stronger guidance.
+
+## Invocation
+
+- Use `$x3-4gl-copilot` when asking for explanation, generation, review, or troubleshooting.
+- Ask for the artifact and goal explicitly, such as a routine, action block, transaction flow, join, or screen event.
+- If the input contains client-specific names, preserve them only when the user provided them in the task.
 
 ## Working rules
 

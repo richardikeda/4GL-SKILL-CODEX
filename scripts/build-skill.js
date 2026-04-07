@@ -258,11 +258,46 @@ function firstParagraph(markdown) {
     .map((part) => part.replace(/\n+/g, " ").trim())
     .filter(Boolean);
 
-  return paragraphs[0] || "";
+  return sanitizePublishedText(paragraphs[0] || "");
 }
 
 function normalizeName(value) {
   return value.replace(/^\$+/, "").replace(/\.md$/i, "").trim();
+}
+
+function sanitizePublishedText(value) {
+  if (typeof value !== "string") {
+    return value;
+  }
+
+  return value
+    .replace(/\bSage X3\b/gi, "X3")
+    .replace(/\bX3-Helper\b/g, "official help set")
+    .replace(/\bx3-helper\b/g, "official-help")
+    .replace(/<a target="_blank" href="https:\/\/sage\.github\.io\/SData-2\.0\/pages\/core\/0212\/">SData _where_ syntax<\/a>/g, "SData where syntax")
+    .replace(/\bAdonix server process\b/gi, "runtime server process")
+    .replace(/\bAdonix server\b/gi, "runtime server")
+    .replace(/\bAdonix\b/gi, "runtime")
+    .replace(/\badonix server process\b/g, "runtime server process")
+    .replace(/\bRIIKRET\b/g, "DEBUGRET")
+    .replace(/\bRIIK\b/g, "DEBUGUSR");
+}
+
+function sanitizeStringArray(values) {
+  return values.map((value) => sanitizePublishedText(value));
+}
+
+function sanitizeEntry(entry) {
+  return {
+    ...entry,
+    name: sanitizePublishedText(entry.name),
+    description: sanitizePublishedText(entry.description),
+    signature: sanitizePublishedText(entry.signature),
+    invariants: sanitizeStringArray(entry.invariants || []),
+    example: sanitizePublishedText(entry.example),
+    sources: sanitizeStringArray(entry.sources || []),
+    notes: sanitizeStringArray(entry.notes || []),
+  };
 }
 
 function toKey(value) {
@@ -545,7 +580,7 @@ function createDictionary(pluginModel, helperModel, corpusModel) {
     upsert(helpEntry.name, category, {
       description: summary,
       validation: existing ? "confirmed" : "confirmed-help-only",
-      sources: ["x3-helper"],
+      sources: ["official-help"],
     });
   }
 
@@ -659,15 +694,19 @@ function createDictionary(pluginModel, helperModel, corpusModel) {
     }
   }
 
+  const sanitizedEntries = Array.from(entries.values())
+    .map((entry) => sanitizeEntry(entry))
+    .sort((a, b) => a.name.localeCompare(b.name));
+
   const byCategory = {};
-  for (const entry of Array.from(entries.values()).sort((a, b) => a.name.localeCompare(b.name))) {
+  for (const entry of sanitizedEntries) {
     if (!byCategory[entry.category]) {
       byCategory[entry.category] = [];
     }
     byCategory[entry.category].push(entry);
   }
 
-  const entriesList = Array.from(entries.values()).sort((a, b) => a.name.localeCompare(b.name));
+  const entriesList = sanitizedEntries;
   const unresolvedObservedCommands = Array.from(corpusModel.observedCommands.entries())
     .filter(([name, count]) => count >= 5 && !entries.has(toKey(name)))
     .sort((a, b) => b[1] - a[1])
@@ -709,7 +748,7 @@ function renderDictionary(dictionary) {
   const lines = [];
   lines.push("# 4GL Dictionary");
   lines.push("");
-  lines.push("Canonical dictionary for Sage X3 4GL, rewritten from mined sources and normalized for daily skill use.");
+  lines.push("Canonical dictionary for X3 4GL, rewritten from mined sources and normalized for daily skill use.");
   lines.push("");
   lines.push("## Validation markers");
   lines.push("");
@@ -822,7 +861,7 @@ function renderPatternsGuide(corpusModel) {
   return [
     "# 4GL Patterns",
     "",
-    "Corpus-derived patterns synthesized from the V12 codebase without copying long client-specific routines.",
+    "Corpus-derived patterns synthesized from a reference codebase without copying long client-specific routines.",
     "",
     "## What the corpus is used for",
     "",
@@ -861,7 +900,7 @@ function renderTroubleshooting(pluginModel, dictionary) {
   return [
     "# 4GL Troubleshooting",
     "",
-    "Operational notes for explaining failures, lint-like issues, and environment friction around Sage X3 4GL.",
+    "Operational notes for explaining failures, lint-like issues, and environment friction around X3 4GL.",
     "",
     "## Typical problem classes",
     "",
@@ -903,8 +942,8 @@ function renderPrecedenceGuide(dictionary) {
     "",
     "## Source precedence",
     "",
-    "1. `X3-Helper` and the plugin grammar/snippets define the normative baseline.",
-    "2. The V12 corpus contributes usage patterns, naming tendencies, UI constructs, and field-proven idioms.",
+    "1. The official help set and the plugin grammar/snippets define the normative baseline.",
+    "2. The reference corpus contributes usage patterns, naming tendencies, UI constructs, and field-proven idioms.",
     "3. When corpus usage conflicts with normative sources, the skill keeps the corpus note but preserves the normative interpretation.",
     "",
     "## Dictionary policy",
@@ -986,11 +1025,11 @@ function renderRefinementReport(dictionary) {
 function renderSkillMarkdown(dictionary) {
   return [
     "---",
-    "name: sage-x3-4gl-copilot",
-    "description: Comprehensive Sage X3 4GL skill with a self-contained dictionary, syntax guide, project idioms, UI-framework observations, and troubleshooting workflow. Use when Codex needs to explain 4GL constructs, generate or refactor Sage X3 routines, review .src/.tra/.stc files, map plugin/help semantics into code, or troubleshoot runtime and authoring issues in Sage X3 4GL projects.",
+    "name: x3-4gl-copilot",
+    "description: Comprehensive X3 4GL skill with a self-contained dictionary, syntax guide, project idioms, UI-framework observations, and troubleshooting workflow. Use when Codex needs to explain 4GL constructs, generate or refactor X3 routines, review .src/.tra/.stc files, map help semantics into code, or troubleshoot runtime and authoring issues in X3 4GL projects.",
     "---",
     "",
-    "# Sage X3 4GL Copilot",
+    "# X3 4GL Copilot",
     "",
     "Use the skill's own dictionary first. Treat the mined sources as build-time inputs, not as the primary runtime dependency.",
     "",
@@ -1027,9 +1066,9 @@ function renderSkillMarkdown(dictionary) {
 function renderOpenAiYaml() {
   return [
     "interface:",
-    "  display_name: \"Sage X3 4GL Copilot\"",
-    "  short_description: \"Self-contained Sage X3 4GL skill\"",
-    "  default_prompt: \"Use $sage-x3-4gl-copilot to explain, generate, review, or troubleshoot Sage X3 4GL code with its built-in dictionary.\"",
+    "  display_name: \"X3 4GL Copilot\"",
+    "  short_description: \"Self-contained X3 4GL skill\"",
+    "  default_prompt: \"Use $x3-4gl-copilot to explain, generate, review, or troubleshoot X3 4GL code with its built-in dictionary.\"",
     "",
     "policy:",
     "  allow_implicit_invocation: true",

@@ -10,7 +10,7 @@
       "example": "abs(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -24,7 +24,7 @@
       "example": "ach(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -38,7 +38,7 @@
       "example": "acos(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -72,7 +72,7 @@
       "example": "Actzo - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -137,7 +137,7 @@
       "example": "addmonth(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -193,7 +193,7 @@
       "example": "adxdcs - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -207,7 +207,7 @@
       "example": "adxdir - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -221,7 +221,7 @@
       "example": "adxdlrec - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -235,7 +235,7 @@
       "example": "adxfname - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -249,7 +249,7 @@
       "example": "adxftl - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -263,7 +263,7 @@
       "example": "adxifs - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -291,7 +291,7 @@
       "example": "adxirs - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -305,7 +305,7 @@
       "example": "adxium - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -319,7 +319,7 @@
       "example": "adxlog - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -333,7 +333,7 @@
       "example": "adxmac(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -347,7 +347,7 @@
       "example": "adxmda - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -361,7 +361,7 @@
       "example": "adxmother - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -375,7 +375,7 @@
       "example": "adxmso - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -389,7 +389,7 @@
       "example": "adxmto - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -431,7 +431,7 @@
       "example": "adxpid",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -445,7 +445,7 @@
       "example": "adxpno(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -459,7 +459,7 @@
       "example": "adxsca - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -473,7 +473,7 @@
       "example": "adxseek(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -487,7 +487,7 @@
       "example": "adxsqlrec - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -501,7 +501,7 @@
       "example": "adxtcp",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -515,7 +515,7 @@
       "example": "adxtct - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -529,7 +529,7 @@
       "example": "adxtlk - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -543,7 +543,7 @@
       "example": "adxtms - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -571,7 +571,7 @@
       "example": "adxtuc - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -585,7 +585,7 @@
       "example": "adxtul - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -599,7 +599,7 @@
       "example": "adxtut - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -627,7 +627,7 @@
       "example": "adxuid(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -641,7 +641,7 @@
       "example": "adxuprec - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -655,7 +655,7 @@
       "example": "adxwrb - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -669,7 +669,7 @@
       "example": "Affzo - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -725,7 +725,7 @@
       "example": "allocgrp - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -739,7 +739,7 @@
       "example": "anasql - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -753,7 +753,7 @@
       "example": "and - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -767,7 +767,7 @@
       "example": "anp(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -781,7 +781,7 @@
       "example": "Append ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -809,7 +809,7 @@
       "example": "ar2(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -851,7 +851,7 @@
       "example": "arr(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -865,7 +865,7 @@
       "example": "As ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -879,7 +879,7 @@
       "example": "asc - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -893,7 +893,7 @@
       "example": "ascii(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -907,7 +907,7 @@
       "example": "ash(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -921,7 +921,7 @@
       "example": "asin(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -949,7 +949,7 @@
       "example": "atan(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -963,7 +963,7 @@
       "example": "atan2(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -977,7 +977,7 @@
       "example": "ath(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1019,7 +1019,7 @@
       "example": "avg(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1033,7 +1033,7 @@
       "example": "aweek(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1047,7 +1047,7 @@
       "example": "b64decode(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1061,7 +1061,7 @@
       "example": "b64encode(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1075,7 +1075,7 @@
       "example": "Local Blbfile MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1153,7 +1153,7 @@
       "example": "Break ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1167,7 +1167,7 @@
       "example": "By ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1181,7 +1181,7 @@
       "example": "Call ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1209,7 +1209,7 @@
       "example": "callmet - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1223,7 +1223,7 @@
       "example": "Callui - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1251,7 +1251,7 @@
       "example": "cast(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1265,7 +1265,7 @@
       "example": "ch(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1279,7 +1279,7 @@
       "example": "Local Char MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1293,7 +1293,7 @@
       "example": "checkpath - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1307,7 +1307,7 @@
       "example": "Chgfmt - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1321,7 +1321,7 @@
       "example": "Chgstl - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1335,7 +1335,7 @@
       "example": "Chgtbk - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1349,7 +1349,7 @@
       "example": "Chgtfd - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1363,7 +1363,7 @@
       "example": "Chgtzn - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1377,7 +1377,7 @@
       "example": "Choose - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1391,7 +1391,7 @@
       "example": "chr$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1405,7 +1405,7 @@
       "example": "clacmp - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1447,7 +1447,7 @@
       "example": "clalev(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1461,7 +1461,7 @@
       "example": "clanam(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1475,7 +1475,7 @@
       "example": "clanbs(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1489,7 +1489,7 @@
       "example": "clasiz(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1503,7 +1503,7 @@
       "example": "clavar(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1517,7 +1517,7 @@
       "example": "Local Clbfile MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1531,7 +1531,7 @@
       "example": "close - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1545,7 +1545,7 @@
       "example": "closelog - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1559,7 +1559,7 @@
       "example": "cnp(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1573,7 +1573,7 @@
       "example": "columns - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1587,7 +1587,7 @@
       "example": "Commit ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1601,7 +1601,7 @@
       "example": "Const ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1657,7 +1657,7 @@
       "example": "cos(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1685,7 +1685,7 @@
       "example": "ctrans(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1699,7 +1699,7 @@
       "example": "curr - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1713,7 +1713,7 @@
       "example": "currind - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1727,7 +1727,7 @@
       "example": "currlen - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1741,7 +1741,7 @@
       "example": "Local Date MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1755,7 +1755,7 @@
       "example": "date$",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1769,7 +1769,7 @@
       "example": "datesyst - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1783,7 +1783,7 @@
       "example": "Local Datetime MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1797,7 +1797,7 @@
       "example": "datetime$",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1811,7 +1811,7 @@
       "example": "day(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1825,7 +1825,7 @@
       "example": "day$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1839,7 +1839,7 @@
       "example": "dayn(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1864,7 +1864,7 @@
       "description": "Snippet-backed pattern: user debug break.",
       "signature": "",
       "invariants": [],
-      "example": "If GUSER=\"RIIK\" : Dbgaff : Endif",
+      "example": "If GUSER=\"DEBUGUSR\" : Dbgaff : Endif",
       "validation": "confirmed",
       "sources": [
         "plugin-snippets"
@@ -1979,7 +1979,7 @@
       "example": "dbgmode - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -1990,7 +1990,7 @@
       "description": "Snippet-backed pattern: user debug break for java debugger.",
       "signature": "",
       "invariants": [],
-      "example": "If GUSER=\"RIIK\" : Call SETDEBUGJON From DEBUGGERJ : Dbgaff : Endif",
+      "example": "If GUSER=\"DEBUGUSR\" : Call SETDEBUGJON From DEBUGGERJ : Dbgaff : Endif",
       "validation": "confirmed",
       "sources": [
         "plugin-snippets"
@@ -2004,7 +2004,7 @@
       "description": "Snippet-backed pattern: ask for debug break.",
       "signature": "",
       "invariants": [],
-      "example": "If GUSER=\"RIIK\"   Local integer RIIKRET   Call OUINON(\"Debug question} ?\",RIIKRET) From GESECRAN   If RIIKRET=2",
+      "example": "If GUSER=\"DEBUGUSR\"   Local integer DEBUGRET   Call OUINON(\"Debug question} ?\",DEBUGRET) From GESECRAN   If DEBUGRET=2",
       "validation": "confirmed",
       "sources": [
         "plugin-snippets"
@@ -2021,7 +2021,7 @@
       "example": "Local Decimal MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2035,7 +2035,7 @@
       "example": "Default ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2049,7 +2049,7 @@
       "example": "dela - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2077,7 +2077,7 @@
       "example": "deletebykey - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2091,7 +2091,7 @@
       "example": "delfile(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2105,7 +2105,7 @@
       "example": "desc - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2119,7 +2119,7 @@
       "example": "dim - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2147,7 +2147,7 @@
       "example": "dir$",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2161,7 +2161,7 @@
       "example": "Disable - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2211,7 +2211,7 @@
       "example": "Diszo - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2225,7 +2225,7 @@
       "example": "Local Double MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2239,7 +2239,7 @@
       "example": "Effzo - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2253,7 +2253,7 @@
       "example": "Else ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2267,7 +2267,7 @@
       "example": "Elsif ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2281,7 +2281,7 @@
       "example": "Enable - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2295,7 +2295,7 @@
       "example": "End ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2323,7 +2323,7 @@
       "example": "Endcase ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2337,7 +2337,7 @@
       "example": "Endif ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2351,7 +2351,7 @@
       "example": "engine-error-list - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2393,7 +2393,7 @@
       "example": "Envzo - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2407,7 +2407,7 @@
       "example": "eomonth(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2435,7 +2435,7 @@
       "example": "errl",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2449,7 +2449,7 @@
       "example": "errm",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2463,7 +2463,7 @@
       "example": "errmes$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2477,7 +2477,7 @@
       "example": "errn",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2505,7 +2505,7 @@
       "example": "errp",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2519,7 +2519,7 @@
       "example": "escjson - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2555,13 +2555,13 @@
       "key": "evaluesdata",
       "name": "evaluesdata",
       "category": "function",
-      "description": "This function defines a filtering condition on a database query. The condition is expressed in <a target=\"_blank\" href=\"https://sage.github.io/SData-2.0/pages/core/0212/\">SData _where_ syntax</a>.",
+      "description": "This function defines a filtering condition on a database query. The condition is expressed in <a target=\"_blank\" href=\"about:blank\">SData _where_ syntax</a>.",
       "signature": "evaluesdata(...)",
       "invariants": [],
       "example": "evaluesdata(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2589,7 +2589,7 @@
       "example": "execsql - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2603,7 +2603,7 @@
       "example": "exp(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2617,7 +2617,7 @@
       "example": "extended - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2631,7 +2631,7 @@
       "example": "fac(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2659,7 +2659,7 @@
       "example": "file - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2673,7 +2673,7 @@
       "example": "fileabre - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2715,7 +2715,7 @@
       "example": "filename - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2743,7 +2743,7 @@
       "example": "filexist(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2757,7 +2757,7 @@
       "example": "filinfo(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2817,7 +2817,7 @@
       "example": "find(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2831,7 +2831,7 @@
       "example": "first - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2845,7 +2845,7 @@
       "example": "fix(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2859,7 +2859,7 @@
       "example": "Local Float MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2873,7 +2873,7 @@
       "example": "flush - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2887,7 +2887,7 @@
       "example": "fmet - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2901,7 +2901,7 @@
       "example": "fmethod - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2915,7 +2915,7 @@
       "example": "For ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2957,7 +2957,7 @@
       "example": "format$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -2999,7 +2999,7 @@
       "example": "FreeGroup ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3007,13 +3007,13 @@
       "key": "freeheap",
       "name": "freeheap",
       "category": "runtime-variable",
-      "description": "The 'Freeheap' function returns the number of bytes not used in the heap memory of the Adonix server process.",
+      "description": "The 'Freeheap' function returns the number of bytes not used in the heap memory of the runtime server process.",
       "signature": "",
       "invariants": [],
       "example": "freeheap",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3027,7 +3027,7 @@
       "example": "freeinstance - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3035,13 +3035,13 @@
       "key": "freemem",
       "name": "freemem",
       "category": "runtime-variable",
-      "description": "The 'Freemem' function returns the number of bytes not used in the main memory of the Adonix server process.",
+      "description": "The 'Freemem' function returns the number of bytes not used in the main memory of the runtime server process.",
       "signature": "",
       "invariants": [],
       "example": "freemem",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3055,7 +3055,7 @@
       "example": "freesnapshot - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3069,7 +3069,7 @@
       "example": "From ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3083,7 +3083,7 @@
       "example": "fstat",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3097,7 +3097,7 @@
       "example": "func - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3153,7 +3153,7 @@
       "example": "gdat$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3167,7 +3167,7 @@
       "example": "gdatetime$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3199,7 +3199,7 @@
       "example": "getaccessorenabled - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3213,7 +3213,7 @@
       "example": "getbit - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3227,7 +3227,7 @@
       "example": "getenv$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3241,7 +3241,7 @@
       "example": "getlogname - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3255,7 +3255,7 @@
       "example": "getmodified - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3269,7 +3269,7 @@
       "example": "getseq - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3283,7 +3283,7 @@
       "example": "getuuid",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3297,7 +3297,7 @@
       "example": "Global ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3311,7 +3311,7 @@
       "example": "glossary - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3325,7 +3325,7 @@
       "example": "glossary-datetime - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3339,7 +3339,7 @@
       "example": "glossary-snapshot - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3353,7 +3353,7 @@
       "example": "glossary-structure - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3367,7 +3367,7 @@
       "example": "glossary-updtick - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3381,7 +3381,7 @@
       "example": "glossary-uuid - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3431,7 +3431,7 @@
       "example": "Gosub ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3459,7 +3459,7 @@
       "example": "goto - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3505,7 +3505,7 @@
       "example": "Grizo - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3516,7 +3516,7 @@
       "description": "Snippet-backed pattern: GUSER PLUS.",
       "signature": "",
       "invariants": [],
-      "example": "If GUSER=\"RIIK\"     Infbox \"LABEL}\" Endif",
+      "example": "If GUSER=\"DEBUGUSR\"     Infbox \"LABEL}\" Endif",
       "validation": "confirmed",
       "sources": [
         "plugin-snippets"
@@ -3547,7 +3547,7 @@
       "example": "heapdmp - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3575,7 +3575,7 @@
       "example": "Hint ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3635,7 +3635,7 @@
       "example": "indcum",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3649,7 +3649,7 @@
       "example": "Infbox ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3733,7 +3733,7 @@
       "example": "insa - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3761,7 +3761,7 @@
       "example": "Local Instance MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3775,7 +3775,7 @@
       "example": "instr(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3789,7 +3789,7 @@
       "example": "int(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3803,7 +3803,7 @@
       "example": "Local Integer MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3817,7 +3817,7 @@
       "example": "iomode - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3845,7 +3845,7 @@
       "example": "isreadonly - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3873,7 +3873,7 @@
       "example": "Key ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3887,7 +3887,7 @@
       "example": "keylen - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3901,7 +3901,7 @@
       "example": "keyname - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3915,7 +3915,7 @@
       "example": "keyuniq - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3929,7 +3929,7 @@
       "example": "Kill ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3957,7 +3957,7 @@
       "example": "last - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3971,7 +3971,7 @@
       "example": "left$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3985,7 +3985,7 @@
       "example": "len(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -3999,7 +3999,7 @@
       "example": "Local Libelle MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4047,7 +4047,7 @@
       "example": "ln(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4061,7 +4061,7 @@
       "example": "lobsize(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4075,7 +4075,7 @@
       "example": "Local ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4207,7 +4207,7 @@
       "example": "Lock ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4221,7 +4221,7 @@
       "example": "lockwait - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4235,7 +4235,7 @@
       "example": "log(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4249,7 +4249,7 @@
       "example": "logicclose - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4263,7 +4263,7 @@
       "example": "Look ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4277,7 +4277,7 @@
       "example": "Mask ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4403,7 +4403,7 @@
       "example": "max(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4411,13 +4411,13 @@
       "key": "maxheap",
       "name": "maxheap",
       "category": "help-topic",
-      "description": "The maxheap variable defines the memory (in bytes) that can be allocated in the heap memory of the adonix server process.",
+      "description": "The maxheap variable defines the memory (in bytes) that can be allocated in the heap memory of the runtime server process.",
       "signature": "",
       "invariants": [],
       "example": "maxheap - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4425,13 +4425,13 @@
       "key": "maxmem",
       "name": "maxmem",
       "category": "help-topic",
-      "description": "The maxmem variable defines the memory (in bytes) that can be allocated in the main memory of the Adonix server process.",
+      "description": "The maxmem variable defines the memory (in bytes) that can be allocated in the main memory of the runtime server process.",
       "signature": "",
       "invariants": [],
       "example": "maxmem - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4445,7 +4445,7 @@
       "example": "maxtab - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4487,7 +4487,7 @@
       "example": "mess(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4501,7 +4501,7 @@
       "example": "method - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4515,7 +4515,7 @@
       "example": "mid$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4529,7 +4529,7 @@
       "example": "min(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4561,7 +4561,7 @@
       "example": "mod(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4575,7 +4575,7 @@
       "example": "modified - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4589,7 +4589,7 @@
       "example": "month(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4603,7 +4603,7 @@
       "example": "month$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4617,7 +4617,7 @@
       "example": "nbind - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4631,7 +4631,7 @@
       "example": "nbrecord(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4659,7 +4659,7 @@
       "example": "nbzon - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4673,7 +4673,7 @@
       "example": "nday(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4687,7 +4687,7 @@
       "example": "nday$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4701,7 +4701,7 @@
       "example": "NewInstance ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4715,7 +4715,7 @@
       "example": "Next ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4729,7 +4729,7 @@
       "example": "next-loop - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4743,7 +4743,7 @@
       "example": "next-read - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4757,7 +4757,7 @@
       "example": "nohint - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4771,7 +4771,7 @@
       "example": "Nolign - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4785,7 +4785,7 @@
       "example": "Nolign1 - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4799,7 +4799,7 @@
       "example": "nomap - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4813,7 +4813,7 @@
       "example": "not - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4827,7 +4827,7 @@
       "example": "null",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4841,7 +4841,7 @@
       "example": "nulluuid",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4869,7 +4869,7 @@
       "example": "num$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4883,7 +4883,7 @@
       "example": "objectexist(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4897,7 +4897,7 @@
       "example": "objectnbs - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4911,7 +4911,7 @@
       "example": "objecttype - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -4925,7 +4925,7 @@
       "example": "objectvar - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5076,7 +5076,7 @@
       "example": "openlog - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5104,7 +5104,7 @@
       "example": "or - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5132,7 +5132,7 @@
       "example": "order-by - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5146,7 +5146,7 @@
       "example": "parse(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5160,7 +5160,7 @@
       "example": "pat(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5192,7 +5192,7 @@
       "example": "pi",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5220,7 +5220,7 @@
       "example": "prd(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5234,7 +5234,7 @@
       "example": "prev - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5332,7 +5332,7 @@
       "example": "putseq - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5360,7 +5360,7 @@
       "example": "Raz ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5388,7 +5388,7 @@
       "example": "Read ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5430,7 +5430,7 @@
       "example": "reckey - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5444,7 +5444,7 @@
       "example": "renamefile(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5490,7 +5490,7 @@
       "example": "resume - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5504,7 +5504,7 @@
       "example": "Return ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5518,7 +5518,7 @@
       "example": "reverttosnapshot - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5532,7 +5532,7 @@
       "example": "revertupdtick - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5560,7 +5560,7 @@
       "example": "rewritebykey - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5574,7 +5574,7 @@
       "example": "right$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5588,7 +5588,7 @@
       "example": "rnd(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5602,7 +5602,7 @@
       "example": "Rollback ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5616,7 +5616,7 @@
       "example": "rowcount(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5630,7 +5630,7 @@
       "example": "sadmem - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5662,7 +5662,7 @@
       "example": "schar - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5676,7 +5676,7 @@
       "example": "seek - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5704,7 +5704,7 @@
       "example": "seg$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5760,7 +5760,7 @@
       "example": "setaccessorenabled - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5774,7 +5774,7 @@
       "example": "setbit - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5816,7 +5816,7 @@
       "example": "Setinstance ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5830,7 +5830,7 @@
       "example": "setinstancenosys - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5862,7 +5862,7 @@
       "example": "Setlob ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5923,7 +5923,7 @@
       "example": "sgn(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5937,7 +5937,7 @@
       "example": "sh(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5951,7 +5951,7 @@
       "example": "Local Shortint MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5965,7 +5965,7 @@
       "example": "sigma(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5979,7 +5979,7 @@
       "example": "sin(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -5993,7 +5993,7 @@
       "example": "Sleep ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6007,7 +6007,7 @@
       "example": "snapshot - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6021,7 +6021,7 @@
       "example": "snapshotenabled - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6049,7 +6049,7 @@
       "example": "space$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6063,7 +6063,7 @@
       "example": "sql - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6077,7 +6077,7 @@
       "example": "sqr(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6091,7 +6091,7 @@
       "example": "stability - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6105,7 +6105,7 @@
       "example": "stat1 - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6119,7 +6119,7 @@
       "example": "status",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6133,7 +6133,7 @@
       "example": "Step ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6161,7 +6161,7 @@
       "example": "strdecode(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6175,7 +6175,7 @@
       "example": "strencode(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6189,7 +6189,7 @@
       "example": "string$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6217,7 +6217,7 @@
       "example": "sum(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6259,7 +6259,7 @@
       "example": "tairec - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6273,7 +6273,7 @@
       "example": "tan(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6287,7 +6287,7 @@
       "example": "th(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6301,7 +6301,7 @@
       "example": "then - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6315,7 +6315,7 @@
       "example": "this - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6329,7 +6329,7 @@
       "example": "time",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6343,7 +6343,7 @@
       "example": "time$",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6357,7 +6357,7 @@
       "example": "timestamp$",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6371,7 +6371,7 @@
       "example": "Local Tinyint MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6385,7 +6385,7 @@
       "example": "Titcol - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6427,7 +6427,7 @@
       "example": "To ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6441,7 +6441,7 @@
       "example": "tolower(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6449,13 +6449,13 @@
       "key": "tosdata",
       "name": "tosdata",
       "category": "help-topic",
-      "description": "This function returns a string value containing an <a target=\"_blank\" href=\"https://sage.github.io/SData-2.0/pages/core/0212/\">SData _where_ syntax</a> corresponding to a $$PRODUCT valid condition.",
+      "description": "This function returns a string value containing an <a target=\"_blank\" href=\"about:blank\">SData _where_ syntax</a> corresponding to a $$PRODUCT valid condition.",
       "signature": "",
       "invariants": [],
       "example": "tosdata - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6469,7 +6469,7 @@
       "example": "toupper(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6483,7 +6483,7 @@
       "example": "touuid(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6619,7 +6619,7 @@
       "example": "trtcou",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6633,7 +6633,7 @@
       "example": "type(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6661,7 +6661,7 @@
       "example": "unescjson - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6675,7 +6675,7 @@
       "example": "uni(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6689,7 +6689,7 @@
       "example": "uniqid(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6703,7 +6703,7 @@
       "example": "Unlock ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6717,7 +6717,7 @@
       "example": "Until ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6731,7 +6731,7 @@
       "example": "Update ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6745,7 +6745,7 @@
       "example": "updtick(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6759,7 +6759,7 @@
       "example": "Using ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6773,7 +6773,7 @@
       "example": "uuid$",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6787,7 +6787,7 @@
       "example": "Local Uuident MY_VALUE",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6801,7 +6801,7 @@
       "example": "val(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6815,7 +6815,7 @@
       "example": "Value ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6829,7 +6829,7 @@
       "example": "var(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6843,7 +6843,7 @@
       "example": "Variable ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6857,7 +6857,7 @@
       "example": "ver$(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6871,7 +6871,7 @@
       "example": "vireblc(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6899,7 +6899,7 @@
       "example": "week(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6913,7 +6913,7 @@
       "example": "Wend ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6927,7 +6927,7 @@
       "example": "When ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6941,7 +6941,7 @@
       "example": "Where ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6969,7 +6969,7 @@
       "example": "With ...",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -6997,7 +6997,7 @@
       "example": "writeb - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -7053,7 +7053,7 @@
       "example": "x3script-keywords-glossary - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -7081,7 +7081,7 @@
       "example": "xgetchar - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -7095,7 +7095,7 @@
       "example": "xor - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -7109,7 +7109,7 @@
       "example": "year(VALUE)",
       "validation": "confirmed",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -7123,7 +7123,7 @@
       "example": "Zc - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -7137,7 +7137,7 @@
       "example": "Zoncou - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -7151,7 +7151,7 @@
       "example": "Zonsor - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     },
@@ -7165,7 +7165,7 @@
       "example": "Zonsui - see category notes and syntax guide.",
       "validation": "confirmed-help-only",
       "sources": [
-        "x3-helper"
+        "official-help"
       ],
       "notes": []
     }
@@ -7182,7 +7182,7 @@
         "example": "abs(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7196,7 +7196,7 @@
         "example": "ach(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7210,7 +7210,7 @@
         "example": "acos(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7224,7 +7224,7 @@
         "example": "addmonth(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7266,7 +7266,7 @@
         "example": "adxmac(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7294,7 +7294,7 @@
         "example": "adxpno(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7308,7 +7308,7 @@
         "example": "adxseek(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7322,7 +7322,7 @@
         "example": "adxuid(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7336,7 +7336,7 @@
         "example": "anp(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7350,7 +7350,7 @@
         "example": "ar2(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7364,7 +7364,7 @@
         "example": "arr(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7378,7 +7378,7 @@
         "example": "ascii(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7392,7 +7392,7 @@
         "example": "ash(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7406,7 +7406,7 @@
         "example": "asin(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7420,7 +7420,7 @@
         "example": "atan(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7434,7 +7434,7 @@
         "example": "atan2(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7448,7 +7448,7 @@
         "example": "ath(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7476,7 +7476,7 @@
         "example": "avg(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7490,7 +7490,7 @@
         "example": "aweek(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7504,7 +7504,7 @@
         "example": "b64decode(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7518,7 +7518,7 @@
         "example": "b64encode(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7532,7 +7532,7 @@
         "example": "cast(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7546,7 +7546,7 @@
         "example": "ch(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7560,7 +7560,7 @@
         "example": "chr$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7602,7 +7602,7 @@
         "example": "clalev(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7616,7 +7616,7 @@
         "example": "clanam(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7630,7 +7630,7 @@
         "example": "clanbs(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7644,7 +7644,7 @@
         "example": "clasiz(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7658,7 +7658,7 @@
         "example": "clavar(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7672,7 +7672,7 @@
         "example": "cnp(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7686,7 +7686,7 @@
         "example": "cos(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7714,7 +7714,7 @@
         "example": "ctrans(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7728,7 +7728,7 @@
         "example": "day(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7742,7 +7742,7 @@
         "example": "day$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7756,7 +7756,7 @@
         "example": "dayn(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7868,7 +7868,7 @@
         "example": "delfile(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7910,7 +7910,7 @@
         "example": "eomonth(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7924,7 +7924,7 @@
         "example": "errmes$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7960,13 +7960,13 @@
         "key": "evaluesdata",
         "name": "evaluesdata",
         "category": "function",
-        "description": "This function defines a filtering condition on a database query. The condition is expressed in <a target=\"_blank\" href=\"https://sage.github.io/SData-2.0/pages/core/0212/\">SData _where_ syntax</a>.",
+        "description": "This function defines a filtering condition on a database query. The condition is expressed in <a target=\"_blank\" href=\"about:blank\">SData _where_ syntax</a>.",
         "signature": "evaluesdata(...)",
         "invariants": [],
         "example": "evaluesdata(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7980,7 +7980,7 @@
         "example": "exp(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -7994,7 +7994,7 @@
         "example": "fac(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8064,7 +8064,7 @@
         "example": "filexist(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8078,7 +8078,7 @@
         "example": "filinfo(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8106,7 +8106,7 @@
         "example": "find(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8120,7 +8120,7 @@
         "example": "fix(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8134,7 +8134,7 @@
         "example": "format$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8162,7 +8162,7 @@
         "example": "gdat$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8176,7 +8176,7 @@
         "example": "gdatetime$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8190,7 +8190,7 @@
         "example": "getenv$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8218,7 +8218,7 @@
         "example": "instr(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8232,7 +8232,7 @@
         "example": "int(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8260,7 +8260,7 @@
         "example": "left$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8274,7 +8274,7 @@
         "example": "len(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8288,7 +8288,7 @@
         "example": "ln(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8302,7 +8302,7 @@
         "example": "lobsize(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8316,7 +8316,7 @@
         "example": "log(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8428,7 +8428,7 @@
         "example": "max(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8442,7 +8442,7 @@
         "example": "mess(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8456,7 +8456,7 @@
         "example": "mid$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8470,7 +8470,7 @@
         "example": "min(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8484,7 +8484,7 @@
         "example": "mod(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8498,7 +8498,7 @@
         "example": "month(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8512,7 +8512,7 @@
         "example": "month$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8526,7 +8526,7 @@
         "example": "nbrecord(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8540,7 +8540,7 @@
         "example": "nday(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8554,7 +8554,7 @@
         "example": "nday$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8582,7 +8582,7 @@
         "example": "num$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8596,7 +8596,7 @@
         "example": "objectexist(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8610,7 +8610,7 @@
         "example": "parse(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8624,7 +8624,7 @@
         "example": "pat(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8638,7 +8638,7 @@
         "example": "prd(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8708,7 +8708,7 @@
         "example": "renamefile(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8722,7 +8722,7 @@
         "example": "right$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8736,7 +8736,7 @@
         "example": "rnd(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8750,7 +8750,7 @@
         "example": "rowcount(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8778,7 +8778,7 @@
         "example": "seg$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8792,7 +8792,7 @@
         "example": "sgn(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8806,7 +8806,7 @@
         "example": "sh(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8820,7 +8820,7 @@
         "example": "sigma(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8834,7 +8834,7 @@
         "example": "sin(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8848,7 +8848,7 @@
         "example": "space$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8862,7 +8862,7 @@
         "example": "sqr(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8890,7 +8890,7 @@
         "example": "strdecode(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8904,7 +8904,7 @@
         "example": "strencode(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8918,7 +8918,7 @@
         "example": "string$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8932,7 +8932,7 @@
         "example": "sum(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8946,7 +8946,7 @@
         "example": "tan(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8960,7 +8960,7 @@
         "example": "th(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8974,7 +8974,7 @@
         "example": "tolower(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -8988,7 +8988,7 @@
         "example": "toupper(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9002,7 +9002,7 @@
         "example": "touuid(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9016,7 +9016,7 @@
         "example": "type(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9044,7 +9044,7 @@
         "example": "uni(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9058,7 +9058,7 @@
         "example": "uniqid(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9072,7 +9072,7 @@
         "example": "updtick(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9086,7 +9086,7 @@
         "example": "val(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9100,7 +9100,7 @@
         "example": "var(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9114,7 +9114,7 @@
         "example": "ver$(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9128,7 +9128,7 @@
         "example": "vireblc(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9142,7 +9142,7 @@
         "example": "week(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9170,7 +9170,7 @@
         "example": "year(VALUE)",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       }
@@ -9208,7 +9208,7 @@
         "example": "Actzo - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9222,7 +9222,7 @@
         "example": "adxdcs - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9236,7 +9236,7 @@
         "example": "adxdir - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9250,7 +9250,7 @@
         "example": "adxdlrec - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9264,7 +9264,7 @@
         "example": "adxfname - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9278,7 +9278,7 @@
         "example": "adxftl - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9292,7 +9292,7 @@
         "example": "adxifs - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9306,7 +9306,7 @@
         "example": "adxirs - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9320,7 +9320,7 @@
         "example": "adxium - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9334,7 +9334,7 @@
         "example": "adxlog - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9348,7 +9348,7 @@
         "example": "adxmda - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9362,7 +9362,7 @@
         "example": "adxmother - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9376,7 +9376,7 @@
         "example": "adxmso - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9390,7 +9390,7 @@
         "example": "adxmto - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9404,7 +9404,7 @@
         "example": "adxsca - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9418,7 +9418,7 @@
         "example": "adxsqlrec - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9432,7 +9432,7 @@
         "example": "adxtct - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9446,7 +9446,7 @@
         "example": "adxtlk - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9460,7 +9460,7 @@
         "example": "adxtms - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9474,7 +9474,7 @@
         "example": "adxtuc - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9488,7 +9488,7 @@
         "example": "adxtul - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9502,7 +9502,7 @@
         "example": "adxtut - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9516,7 +9516,7 @@
         "example": "adxuprec - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9530,7 +9530,7 @@
         "example": "adxwrb - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9544,7 +9544,7 @@
         "example": "Affzo - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9558,7 +9558,7 @@
         "example": "allocgrp - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9572,7 +9572,7 @@
         "example": "anasql - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9586,7 +9586,7 @@
         "example": "and - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9600,7 +9600,7 @@
         "example": "asc - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9614,7 +9614,7 @@
         "example": "callmet - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9628,7 +9628,7 @@
         "example": "Callui - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9642,7 +9642,7 @@
         "example": "checkpath - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9656,7 +9656,7 @@
         "example": "Chgfmt - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9670,7 +9670,7 @@
         "example": "Chgstl - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9684,7 +9684,7 @@
         "example": "Chgtbk - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9698,7 +9698,7 @@
         "example": "Chgtfd - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9712,7 +9712,7 @@
         "example": "Chgtzn - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9726,7 +9726,7 @@
         "example": "Choose - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9740,7 +9740,7 @@
         "example": "clacmp - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9754,7 +9754,7 @@
         "example": "close - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9768,7 +9768,7 @@
         "example": "closelog - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9782,7 +9782,7 @@
         "example": "columns - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9796,7 +9796,7 @@
         "example": "curr - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9810,7 +9810,7 @@
         "example": "currind - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9824,7 +9824,7 @@
         "example": "currlen - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9838,7 +9838,7 @@
         "example": "datesyst - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9852,7 +9852,7 @@
         "example": "dbgmode - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9866,7 +9866,7 @@
         "example": "dela - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9880,7 +9880,7 @@
         "example": "deletebykey - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9894,7 +9894,7 @@
         "example": "desc - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9908,7 +9908,7 @@
         "example": "dim - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9922,7 +9922,7 @@
         "example": "Disable - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9936,7 +9936,7 @@
         "example": "Diszo - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9950,7 +9950,7 @@
         "example": "Effzo - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9964,7 +9964,7 @@
         "example": "Enable - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9978,7 +9978,7 @@
         "example": "engine-error-list - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -9992,7 +9992,7 @@
         "example": "Envzo - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10006,7 +10006,7 @@
         "example": "escjson - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10020,7 +10020,7 @@
         "example": "execsql - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10034,7 +10034,7 @@
         "example": "extended - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10048,7 +10048,7 @@
         "example": "file - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10062,7 +10062,7 @@
         "example": "fileabre - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10076,7 +10076,7 @@
         "example": "filename - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10090,7 +10090,7 @@
         "example": "first - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10104,7 +10104,7 @@
         "example": "flush - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10118,7 +10118,7 @@
         "example": "fmet - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10132,7 +10132,7 @@
         "example": "fmethod - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10146,7 +10146,7 @@
         "example": "freeinstance - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10160,7 +10160,7 @@
         "example": "freesnapshot - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10174,7 +10174,7 @@
         "example": "func - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10188,7 +10188,7 @@
         "example": "getaccessorenabled - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10202,7 +10202,7 @@
         "example": "getbit - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10216,7 +10216,7 @@
         "example": "getlogname - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10230,7 +10230,7 @@
         "example": "getmodified - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10244,7 +10244,7 @@
         "example": "getseq - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10258,7 +10258,7 @@
         "example": "glossary - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10272,7 +10272,7 @@
         "example": "glossary-datetime - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10286,7 +10286,7 @@
         "example": "glossary-snapshot - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10300,7 +10300,7 @@
         "example": "glossary-structure - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10314,7 +10314,7 @@
         "example": "glossary-updtick - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10328,7 +10328,7 @@
         "example": "glossary-uuid - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10342,7 +10342,7 @@
         "example": "goto - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10356,7 +10356,7 @@
         "example": "Grizo - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10370,7 +10370,7 @@
         "example": "heapdmp - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10384,7 +10384,7 @@
         "example": "insa - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10398,7 +10398,7 @@
         "example": "iomode - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10412,7 +10412,7 @@
         "example": "isreadonly - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10426,7 +10426,7 @@
         "example": "keylen - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10440,7 +10440,7 @@
         "example": "keyname - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10454,7 +10454,7 @@
         "example": "keyuniq - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10468,7 +10468,7 @@
         "example": "last - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10482,7 +10482,7 @@
         "example": "lockwait - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10496,7 +10496,7 @@
         "example": "logicclose - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10504,13 +10504,13 @@
         "key": "maxheap",
         "name": "maxheap",
         "category": "help-topic",
-        "description": "The maxheap variable defines the memory (in bytes) that can be allocated in the heap memory of the adonix server process.",
+        "description": "The maxheap variable defines the memory (in bytes) that can be allocated in the heap memory of the runtime server process.",
         "signature": "",
         "invariants": [],
         "example": "maxheap - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10518,13 +10518,13 @@
         "key": "maxmem",
         "name": "maxmem",
         "category": "help-topic",
-        "description": "The maxmem variable defines the memory (in bytes) that can be allocated in the main memory of the Adonix server process.",
+        "description": "The maxmem variable defines the memory (in bytes) that can be allocated in the main memory of the runtime server process.",
         "signature": "",
         "invariants": [],
         "example": "maxmem - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10538,7 +10538,7 @@
         "example": "maxtab - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10552,7 +10552,7 @@
         "example": "method - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10566,7 +10566,7 @@
         "example": "modified - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10580,7 +10580,7 @@
         "example": "nbind - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10594,7 +10594,7 @@
         "example": "nbzon - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10608,7 +10608,7 @@
         "example": "next-loop - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10622,7 +10622,7 @@
         "example": "next-read - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10636,7 +10636,7 @@
         "example": "nohint - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10650,7 +10650,7 @@
         "example": "Nolign - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10664,7 +10664,7 @@
         "example": "Nolign1 - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10678,7 +10678,7 @@
         "example": "nomap - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10692,7 +10692,7 @@
         "example": "not - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10706,7 +10706,7 @@
         "example": "objectnbs - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10720,7 +10720,7 @@
         "example": "objecttype - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10734,7 +10734,7 @@
         "example": "objectvar - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10748,7 +10748,7 @@
         "example": "openlog - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10762,7 +10762,7 @@
         "example": "or - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10776,7 +10776,7 @@
         "example": "order-by - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10790,7 +10790,7 @@
         "example": "prev - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10804,7 +10804,7 @@
         "example": "putseq - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10818,7 +10818,7 @@
         "example": "reckey - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10832,7 +10832,7 @@
         "example": "resume - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10846,7 +10846,7 @@
         "example": "reverttosnapshot - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10860,7 +10860,7 @@
         "example": "revertupdtick - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10874,7 +10874,7 @@
         "example": "rewritebykey - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10888,7 +10888,7 @@
         "example": "sadmem - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10902,7 +10902,7 @@
         "example": "schar - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10916,7 +10916,7 @@
         "example": "seek - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10930,7 +10930,7 @@
         "example": "setaccessorenabled - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10944,7 +10944,7 @@
         "example": "setbit - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10958,7 +10958,7 @@
         "example": "setinstancenosys - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10972,7 +10972,7 @@
         "example": "snapshot - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -10986,7 +10986,7 @@
         "example": "snapshotenabled - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11000,7 +11000,7 @@
         "example": "sql - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11014,7 +11014,7 @@
         "example": "stability - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11028,7 +11028,7 @@
         "example": "stat1 - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11042,7 +11042,7 @@
         "example": "tairec - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11056,7 +11056,7 @@
         "example": "then - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11070,7 +11070,7 @@
         "example": "this - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11084,7 +11084,7 @@
         "example": "Titcol - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11092,13 +11092,13 @@
         "key": "tosdata",
         "name": "tosdata",
         "category": "help-topic",
-        "description": "This function returns a string value containing an <a target=\"_blank\" href=\"https://sage.github.io/SData-2.0/pages/core/0212/\">SData _where_ syntax</a> corresponding to a $$PRODUCT valid condition.",
+        "description": "This function returns a string value containing an <a target=\"_blank\" href=\"about:blank\">SData _where_ syntax</a> corresponding to a $$PRODUCT valid condition.",
         "signature": "",
         "invariants": [],
         "example": "tosdata - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11112,7 +11112,7 @@
         "example": "unescjson - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11126,7 +11126,7 @@
         "example": "writeb - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11140,7 +11140,7 @@
         "example": "x3script-keywords-glossary - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11154,7 +11154,7 @@
         "example": "xgetchar - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11168,7 +11168,7 @@
         "example": "xor - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11182,7 +11182,7 @@
         "example": "Zc - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11196,7 +11196,7 @@
         "example": "Zoncou - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11210,7 +11210,7 @@
         "example": "Zonsor - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -11224,7 +11224,7 @@
         "example": "Zonsui - see category notes and syntax guide.",
         "validation": "confirmed-help-only",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       }
@@ -11648,7 +11648,7 @@
         "description": "Snippet-backed pattern: user debug break for java debugger.",
         "signature": "",
         "invariants": [],
-        "example": "If GUSER=\"RIIK\" : Call SETDEBUGJON From DEBUGGERJ : Dbgaff : Endif",
+        "example": "If GUSER=\"DEBUGUSR\" : Call SETDEBUGJON From DEBUGGERJ : Dbgaff : Endif",
         "validation": "confirmed",
         "sources": [
           "plugin-snippets"
@@ -11662,7 +11662,7 @@
         "description": "Snippet-backed pattern: ask for debug break.",
         "signature": "",
         "invariants": [],
-        "example": "If GUSER=\"RIIK\"   Local integer RIIKRET   Call OUINON(\"Debug question} ?\",RIIKRET) From GESECRAN   If RIIKRET=2",
+        "example": "If GUSER=\"DEBUGUSR\"   Local integer DEBUGRET   Call OUINON(\"Debug question} ?\",DEBUGRET) From GESECRAN   If DEBUGRET=2",
         "validation": "confirmed",
         "sources": [
           "plugin-snippets"
@@ -11774,7 +11774,7 @@
         "description": "Snippet-backed pattern: GUSER PLUS.",
         "signature": "",
         "invariants": [],
-        "example": "If GUSER=\"RIIK\"     Infbox \"LABEL}\" Endif",
+        "example": "If GUSER=\"DEBUGUSR\"     Infbox \"LABEL}\" Endif",
         "validation": "confirmed",
         "sources": [
           "plugin-snippets"
@@ -12269,7 +12269,7 @@
         "example": "adxpid",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12283,7 +12283,7 @@
         "example": "adxtcp",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12353,7 +12353,7 @@
         "example": "date$",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12367,7 +12367,7 @@
         "example": "datetime$",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12381,7 +12381,7 @@
         "example": "dir$",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12395,7 +12395,7 @@
         "example": "errl",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12409,7 +12409,7 @@
         "example": "errm",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12423,7 +12423,7 @@
         "example": "errn",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12451,7 +12451,7 @@
         "example": "errp",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12459,13 +12459,13 @@
         "key": "freeheap",
         "name": "freeheap",
         "category": "runtime-variable",
-        "description": "The 'Freeheap' function returns the number of bytes not used in the heap memory of the Adonix server process.",
+        "description": "The 'Freeheap' function returns the number of bytes not used in the heap memory of the runtime server process.",
         "signature": "",
         "invariants": [],
         "example": "freeheap",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12473,13 +12473,13 @@
         "key": "freemem",
         "name": "freemem",
         "category": "runtime-variable",
-        "description": "The 'Freemem' function returns the number of bytes not used in the main memory of the Adonix server process.",
+        "description": "The 'Freemem' function returns the number of bytes not used in the main memory of the runtime server process.",
         "signature": "",
         "invariants": [],
         "example": "freemem",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12493,7 +12493,7 @@
         "example": "fstat",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12525,7 +12525,7 @@
         "example": "getuuid",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12593,7 +12593,7 @@
         "example": "indcum",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12649,7 +12649,7 @@
         "example": "null",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12663,7 +12663,7 @@
         "example": "nulluuid",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12677,7 +12677,7 @@
         "example": "pi",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12691,7 +12691,7 @@
         "example": "status",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12705,7 +12705,7 @@
         "example": "time",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12719,7 +12719,7 @@
         "example": "time$",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12733,7 +12733,7 @@
         "example": "timestamp$",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12747,7 +12747,7 @@
         "example": "trtcou",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12761,7 +12761,7 @@
         "example": "uuid$",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       }
@@ -12791,7 +12791,7 @@
         "example": "Append ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12819,7 +12819,7 @@
         "example": "As ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12847,7 +12847,7 @@
         "example": "Break ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12861,7 +12861,7 @@
         "example": "By ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12875,7 +12875,7 @@
         "example": "Call ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12903,7 +12903,7 @@
         "example": "Commit ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12917,7 +12917,7 @@
         "example": "Const ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -12956,7 +12956,7 @@
         "description": "Snippet-backed pattern: user debug break.",
         "signature": "",
         "invariants": [],
-        "example": "If GUSER=\"RIIK\" : Dbgaff : Endif",
+        "example": "If GUSER=\"DEBUGUSR\" : Dbgaff : Endif",
         "validation": "confirmed",
         "sources": [
           "plugin-snippets"
@@ -12973,7 +12973,7 @@
         "example": "Default ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13001,7 +13001,7 @@
         "example": "Else ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13015,7 +13015,7 @@
         "example": "Elsif ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13029,7 +13029,7 @@
         "example": "End ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13057,7 +13057,7 @@
         "example": "Endcase ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13071,7 +13071,7 @@
         "example": "Endif ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13127,7 +13127,7 @@
         "example": "For ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13141,7 +13141,7 @@
         "example": "FreeGroup ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13155,7 +13155,7 @@
         "example": "From ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13183,7 +13183,7 @@
         "example": "Global ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13197,7 +13197,7 @@
         "example": "Gosub ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13225,7 +13225,7 @@
         "example": "Hint ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13253,7 +13253,7 @@
         "example": "Infbox ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13309,7 +13309,7 @@
         "example": "Key ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13323,7 +13323,7 @@
         "example": "Kill ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13337,7 +13337,7 @@
         "example": "Local ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13351,7 +13351,7 @@
         "example": "Lock ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13365,7 +13365,7 @@
         "example": "Look ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13379,7 +13379,7 @@
         "example": "Mask ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13421,7 +13421,7 @@
         "example": "NewInstance ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13435,7 +13435,7 @@
         "example": "Next ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13533,7 +13533,7 @@
         "example": "Raz ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13547,7 +13547,7 @@
         "example": "Read ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13575,7 +13575,7 @@
         "example": "Return ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13603,7 +13603,7 @@
         "example": "Rollback ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13659,7 +13659,7 @@
         "example": "Setinstance ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13673,7 +13673,7 @@
         "example": "Setlob ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13715,7 +13715,7 @@
         "example": "Sleep ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13743,7 +13743,7 @@
         "example": "Step ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13827,7 +13827,7 @@
         "example": "To ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13855,7 +13855,7 @@
         "example": "Unlock ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13869,7 +13869,7 @@
         "example": "Until ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13883,7 +13883,7 @@
         "example": "Update ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13897,7 +13897,7 @@
         "example": "Using ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13911,7 +13911,7 @@
         "example": "Value ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13925,7 +13925,7 @@
         "example": "Variable ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13953,7 +13953,7 @@
         "example": "Wend ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13967,7 +13967,7 @@
         "example": "When ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -13981,7 +13981,7 @@
         "example": "Where ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14009,7 +14009,7 @@
         "example": "With ...",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14053,7 +14053,7 @@
         "example": "Local Blbfile MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14067,7 +14067,7 @@
         "example": "Local Char MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14081,7 +14081,7 @@
         "example": "Local Clbfile MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14095,7 +14095,7 @@
         "example": "Local Date MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14109,7 +14109,7 @@
         "example": "Local Datetime MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14123,7 +14123,7 @@
         "example": "Local Decimal MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14137,7 +14137,7 @@
         "example": "Local Double MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14151,7 +14151,7 @@
         "example": "Local Float MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14165,7 +14165,7 @@
         "example": "Local Instance MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14179,7 +14179,7 @@
         "example": "Local Integer MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14193,7 +14193,7 @@
         "example": "Local Libelle MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14207,7 +14207,7 @@
         "example": "Local Shortint MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14221,7 +14221,7 @@
         "example": "Local Tinyint MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       },
@@ -14235,7 +14235,7 @@
         "example": "Local Uuident MY_VALUE",
         "validation": "confirmed",
         "sources": [
-          "x3-helper"
+          "official-help"
         ],
         "notes": []
       }
@@ -17130,3 +17130,6 @@
     ]
   }
 }
+
+
+

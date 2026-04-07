@@ -4,8 +4,8 @@ This skill is designed to become operationally independent from the mined source
 
 ## Source precedence
 
-1. `X3-Helper` and the plugin grammar/snippets define the normative baseline.
-2. The V12 corpus contributes usage patterns, naming tendencies, UI constructs, and field-proven idioms.
+1. `official help set` and the plugin grammar/snippets define the normative baseline.
+2. The reference corpus contributes usage patterns, naming tendencies, UI constructs, and field-proven idioms.
 3. When corpus usage conflicts with normative sources, the skill keeps the corpus note but preserves the normative interpretation.
 
 ## Dictionary policy
@@ -32,3 +32,4 @@ This skill is designed to become operationally independent from the mined source
 - Unresolved observed commands: 20.
 - Unresolved observed assignments: 20.
 - Corpus files scanned: 38800.
+

@@ -1,6 +1,6 @@
 # 4GL Skill for Codex
 
-Portable Codex skill for Sage X3 4GL explanation, generation, review, and troubleshooting.
+Portable Codex skill for X3 4GL explanation, generation, review, and troubleshooting.
 
 ## What is included
 
@@ -9,6 +9,17 @@ Portable Codex skill for Sage X3 4GL explanation, generation, review, and troubl
 - `references/`: self-contained reference material used by the skill at runtime
 - `data/`: generated dictionary and refinement artifacts
 - `scripts/`: optional build and validation utilities
+
+## How to use
+
+Invoke the skill as `$x3-4gl-copilot` and ask directly for the task you want.
+
+Examples:
+
+- `Use $x3-4gl-copilot to explain this 4GL routine`
+- `Use $x3-4gl-copilot to generate a Subprog with Trbegin, fstat, and Rollback handling`
+- `Use $x3-4gl-copilot to review this .src file and point out bugs`
+- `Use $x3-4gl-copilot to troubleshoot why this mask action is not firing`
 
 ## Privacy and portability
 
@@ -26,7 +37,7 @@ Set these environment variables before running `node scripts/build-skill.js`:
 
 Run `node scripts/validate-skill.js` to validate the packaged skill.
 
-## Author
+## Notes
 
-Author: Richard Ikeda
+Author metadata intentionally omitted for shareable distribution.
 Tooling: Codex + Node.js

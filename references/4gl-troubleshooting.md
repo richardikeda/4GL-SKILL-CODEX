@@ -1,6 +1,6 @@
 # 4GL Troubleshooting
 
-Operational notes for explaining failures, lint-like issues, and environment friction around Sage X3 4GL.
+Operational notes for explaining failures, lint-like issues, and environment friction around X3 4GL.
 
 ## Typical problem classes
 
@@ -30,3 +30,4 @@ Operational notes for explaining failures, lint-like issues, and environment fri
 - Confirm transactional code terminates in a visible success or failure path.
 - Confirm event labels, `Gosub`, and `Return` structure are consistent.
 - Confirm generated examples avoid client-specific abbreviations from the corpus.
+
